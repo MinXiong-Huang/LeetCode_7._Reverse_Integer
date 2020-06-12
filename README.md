@@ -1,2 +1,2 @@
-# LeetCode_7._Reverse_Integer
- LeetCode_7._Reverse_Integer
+#### 題目:
+https://leetcode.com/problems/reverse-integer/
